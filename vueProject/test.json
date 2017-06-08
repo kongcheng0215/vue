@@ -1,0 +1,462 @@
+{
+  "loginAdmin": [
+    {
+      "instType": 2,
+      "user": "18180215977",
+      "pwd": "25d55ad283aa400af464c76d713c07ad",
+      "id": 3,
+      "instVos": [
+        {
+          "instId": "0",
+          "instName": "公司用户",
+          "phone": "18323445673",
+          "rank": "78"
+        }
+      ],
+      "userId": "402881905a93ad02015a93ad75530000",
+      "token": "+6lJypFuQLnS3LJgx4cPwrbCRqMdYwb96Qp9nnu9r+VBw2wUoea8DdWXVA3gINyy",
+      "username": "admin",
+      "menus": [
+        {
+          "icon": "iconfont icon-dangan",
+          "id": 35,
+          "name": "平台概况",
+          "user": "18180215977",
+          "selected": false,
+          "subMenus": [
+            {
+              "icon": null,
+              "id": 39,
+              "name": "平台概况",
+              "routerName": "checkPlate",
+              "selected": false,
+              "subMenuFunctions": []
+            }
+          ]
+        },
+        {
+          "icon": "iconfont icon-xitong",
+          "id": 38,
+          "name": "系统设置",
+          "selected": false,
+          "subMenus": [
+            {
+              "icon": null,
+              "id": 45,
+              "name": "用户管理",
+              "routerName": "adminMange",
+              "selected": false,
+              "subMenuFunctions": []
+            },
+            {
+              "icon": null,
+              "id": 45,
+              "name": "修改密码",
+              "routerName": "adminUpdatePassword",
+              "selected": false,
+              "subMenuFunctions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "instType": 0,
+      "user": "18180215978",
+      "pwd": "defac44447b57f152d14f30cea7a73cb",
+      "id": 89356,
+      "instVos": [
+        {
+          "instId": "0",
+          "instName": "构造总后台用户"
+        }
+      ],
+      "userId": "402881905a93ad02015a93ad75530000",
+      "token": "+6lJypFuQLnS3LJgx4cPwrbCRqMdYwb96Qp9nnu9r+VBw2wUoea8DdWXVA3gINyy",
+      "username": "个人用户",
+      "menus": [
+        {
+          "icon": "iconfont icon-yibiaopan",
+          "id": 34,
+          "name": "我的工作台",
+          "user": "18180215975",
+          "selected": false,
+          "subMenus": []
+        },
+        {
+          "icon": "iconfont icon-dangan",
+          "id": 35,
+          "name": "我的众测",
+          "selected": false,
+          "subMenus": [
+            {
+              "icon": null,
+              "id": 39,
+              "name": "可申请项目",
+              "routerName": "checkDeviceMange",
+              "selected": false,
+              "subMenuFunctions": []
+            },
+            {
+              "icon": null,
+              "id": 40,
+              "name": "已申请项目",
+              "routerName": "checkUserOption",
+              "selected": false,
+              "subMenuFunctions": []
+            },
+            {
+              "icon": null,
+              "id": 41,
+              "name": "已完成项目",
+              "routerName": "checkQcOption",
+              "selected": false,
+              "subMenuFunctions": []
+            }
+          ]
+        },
+        {
+          "icon": "iconfont icon-xitong",
+          "id": 38,
+          "name": "系统设置",
+          "selected": false,
+          "subMenus": [
+            {
+              "icon": null,
+              "id": 45,
+              "name": "工资结算",
+              "routerName": "checkQcApplySure",
+              "selected": false,
+              "subMenuFunctions": []
+            },
+            {
+              "icon": null,
+              "id": 45,
+              "name": "修改密码",
+              "routerName": "checkUpdatePwd",
+              "selected": false,
+              "subMenuFunctions": []
+            },
+            {
+              "icon": null,
+              "id": 45,
+              "name": "个人信息",
+              "routerName": "checkPersonInfo",
+              "selected": false,
+              "subMenuFunctions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "instType": 1,
+      "user": "18180215979",
+      "pwd": "25d55ad283aa400af464c76d713c07ad",
+      "id": 60797,
+      "instVos": [
+        {
+          "instId": "0",
+          "instName": "普通用户",
+          "phone": "18408243594",
+          "rank": "66"
+        }
+      ],
+      "userId": "402881905a93ad02015a93ad75530000",
+      "token": "+6lJypFuQLnS3LJgx4cPwrbCRqMdYwb96Qp9nnu9r+VBw2wUoea8DdWXVA3gINyy",
+      "username": "公司用户",
+      "menus": [
+        {
+          "icon": "iconfont icon-yibiaopan",
+          "id": 34,
+          "name": "我的工作台",
+          "user": "18180215976",
+          "selected": false,
+          "subMenus": []
+        },
+        {
+          "icon": "iconfont icon-dangan",
+          "id": 35,
+          "name": "我的需求发布",
+          "selected": false,
+          "subMenus": [
+            {
+              "icon": null,
+              "id": 39,
+              "name": "发布项目",
+              "routerName": "unitDeviceRegist",
+              "selected": false,
+              "subMenuFunctions": []
+            },
+            {
+              "icon": null,
+              "id": 40,
+              "name": "已发布项目",
+              "routerName": "unitDeviceInfo",
+              "selected": false,
+              "subMenuFunctions": []
+            }
+          ]
+        },
+        {
+          "icon": "iconfont icon-xitong",
+          "id": 38,
+          "name": "系统设置",
+          "selected": false,
+          "subMenus": [
+            {
+              "icon": null,
+              "id": 45,
+              "name": "我的钱包",
+              "routerName": "unitQcApplySure",
+              "selected": false,
+              "subMenuFunctions": []
+            },
+            {
+              "icon": null,
+              "id": 45,
+              "name": "修改密码",
+              "routerName": "unitUpdatePwd",
+              "selected": false,
+              "subMenuFunctions": []
+            },
+            {
+              "icon": null,
+              "id": 45,
+              "name": "个人信息",
+              "routerName": "unitPersonInfo",
+              "selected": false,
+              "subMenuFunctions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "instType": 1,
+      "user": "18180215999",
+      "pwd": "fcea920f7412b5da7be0cf42b8c93759",
+      "id": 85490,
+      "instVos": [
+        {
+          "instId": "0",
+          "instName": "普通用户",
+          "phone": "18408243594",
+          "rank": "66"
+        }
+      ],
+      "userId": "402881905a93ad02015a93ad75530000",
+      "token": "+6lJypFuQLnS3LJgx4cPwrbCRqMdYwb96Qp9nnu9r+VBw2wUoea8DdWXVA3gINyy",
+      "username": "公司用户",
+      "menus": [
+        {
+          "icon": "iconfont icon-yibiaopan",
+          "id": 34,
+          "name": "我的工作台",
+          "user": "18180215976",
+          "selected": false,
+          "subMenus": []
+        },
+        {
+          "icon": "iconfont icon-dangan",
+          "id": 35,
+          "name": "我的需求发布",
+          "selected": false,
+          "subMenus": [
+            {
+              "icon": null,
+              "id": 39,
+              "name": "发布项目",
+              "routerName": "unitDeviceRegist",
+              "selected": false,
+              "subMenuFunctions": []
+            },
+            {
+              "icon": null,
+              "id": 40,
+              "name": "已发布项目",
+              "routerName": "unitDeviceInfo",
+              "selected": false,
+              "subMenuFunctions": []
+            }
+          ]
+        },
+        {
+          "icon": "iconfont icon-xitong",
+          "id": 38,
+          "name": "系统设置",
+          "selected": false,
+          "subMenus": [
+            {
+              "icon": null,
+              "id": 45,
+              "name": "我的钱包",
+              "routerName": "unitQcApplySure",
+              "selected": false,
+              "subMenuFunctions": []
+            },
+            {
+              "icon": null,
+              "id": 45,
+              "name": "修改密码",
+              "routerName": "unitUpdatePwd",
+              "selected": false,
+              "subMenuFunctions": []
+            },
+            {
+              "icon": null,
+              "id": 45,
+              "name": "个人信息",
+              "routerName": "unitPersonInfo",
+              "selected": false,
+              "subMenuFunctions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "instType": 0,
+      "user": "18782498400",
+      "pwd": "c3f192a2e23d6db959c939e9f35e0406",
+      "id": 71471,
+      "instVos": [
+        {
+          "instId": "0",
+          "instName": "构造总后台用户"
+        }
+      ],
+      "userId": "402881905a93ad02015a93ad75530000",
+      "token": "+6lJypFuQLnS3LJgx4cPwrbCRqMdYwb96Qp9nnu9r+VBw2wUoea8DdWXVA3gINyy",
+      "username": "个人用户",
+      "menus": [
+        {
+          "icon": "iconfont icon-yibiaopan",
+          "id": 34,
+          "name": "我的工作台",
+          "user": "18180215975",
+          "selected": false,
+          "subMenus": []
+        },
+        {
+          "icon": "iconfont icon-dangan",
+          "id": 35,
+          "name": "我的众测",
+          "selected": false,
+          "subMenus": [
+            {
+              "icon": null,
+              "id": 39,
+              "name": "可申请项目",
+              "routerName": "checkDeviceMange",
+              "selected": false,
+              "subMenuFunctions": []
+            },
+            {
+              "icon": null,
+              "id": 40,
+              "name": "已申请项目",
+              "routerName": "checkUserOption",
+              "selected": false,
+              "subMenuFunctions": []
+            },
+            {
+              "icon": null,
+              "id": 41,
+              "name": "已完成项目",
+              "routerName": "checkQcOption",
+              "selected": false,
+              "subMenuFunctions": []
+            }
+          ]
+        },
+        {
+          "icon": "iconfont icon-xitong",
+          "id": 38,
+          "name": "系统设置",
+          "selected": false,
+          "subMenus": [
+            {
+              "icon": null,
+              "id": 45,
+              "name": "工资结算",
+              "routerName": "checkQcApplySure",
+              "selected": false,
+              "subMenuFunctions": []
+            },
+            {
+              "icon": null,
+              "id": 45,
+              "name": "修改密码",
+              "routerName": "checkUpdatePwd",
+              "selected": false,
+              "subMenuFunctions": []
+            },
+            {
+              "icon": null,
+              "id": 45,
+              "name": "个人信息",
+              "routerName": "checkPersonInfo",
+              "selected": false,
+              "subMenuFunctions": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "info": [
+    {
+      "createTime": "2017-06-27",
+      "deviceName": "30%",
+      "deviceNo": "无线安全",
+      "deviceType": "2017-05-28",
+      "memo": "12454684897",
+      "qualityLicenseNo": "23",
+      "useUnit": "2017-06-27",
+      "rankless": 39,
+      "rank": 5,
+      "id": 14273,
+      "updateTime": "2017-05-28",
+      "applyDate": "2017-05-28",
+      "nextCheckDate": "2017-05-28",
+      "validDate": "2017-05-28"
+    },
+    {
+      "createTime": "2017-06-02",
+      "deviceName": "100%",
+      "deviceNo": "154",
+      "deviceType": "2017-05-28",
+      "memo": "大小非个",
+      "qualityLicenseNo": "4",
+      "useUnit": "2017-06-02",
+      "rankless": 39,
+      "rank": 5,
+      "id": 33460,
+      "updateTime": "2017-05-28",
+      "applyDate": "2017-05-28",
+      "nextCheckDate": "2017-05-28",
+      "validDate": "2017-05-28"
+    }
+  ],
+  "canApplyProject": [],
+  "finishedProject": [
+    {
+      "createTime": "2017-06-02",
+      "deviceName": "100%",
+      "deviceNo": "154",
+      "deviceType": "2017-05-28",
+      "memo": "大小非个",
+      "qualityLicenseNo": "4",
+      "useUnit": "2017-06-02",
+      "rankless": 39,
+      "rank": 5,
+      "id": 33460,
+      "updateTime": "2017-05-28",
+      "applyDate": "2017-05-28",
+      "nextCheckDate": "2017-05-28",
+      "validDate": "2017-05-28"
+    }
+  ],
+  "applyedProject": []
+}
